@@ -1,0 +1,13 @@
+[project]
+name = "ComfyUI-Krea-Moodboards-Local"
+version = "v0.1.261013"
+description = "A localized, searchable Krea moodboard browser for ComfyUI, with 3,609 styles, favorites, and Krea2 Harness integration."
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ANe5s/ComfyUI-Krea-Moodboards-Local"
+
+[tool.comfy]
+PublisherId = "ane5s"
+DisplayName = "Krea Moodboards Local"
