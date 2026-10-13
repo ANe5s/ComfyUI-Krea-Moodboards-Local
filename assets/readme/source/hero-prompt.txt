@@ -1,0 +1,12 @@
+Use case: stylized-concept.
+Asset type: transparent cutout subject for a GitHub README hero.
+Primary request: create one cohesive cluster of four overlapping visual moodboard sample cards that represents a local visual-style library for ComfyUI. The artwork is illustrative only and must not resemble a real screenshot or any specific Krea moodboard.
+Scene/backdrop: none, transparent canvas.
+Subject: four tactile art cards, each with a distinct abstract sample: a warm cinematic dusk landscape with subtle film grain; a cool cobalt and silver sculptural 3D form; a vivid geometric editorial composition; a quiet ink-and-paper botanical still life.
+Style/medium: refined editorial art direction, richly textured but restrained, a mix of photographic and art-directed visual samples, clean card edges with soft natural depth.
+Composition/framing: wide horizontal cluster, cards arranged as a single compact group with slight overlap and varied scale, enough transparent padding around the entire group, broad silhouette suited to sit on the right half of a README hero; no important details near the edges.
+Lighting/mood: soft studio light, subtle edge highlights, balanced dark and bright details.
+Color palette: charcoal, warm ivory, cobalt/periwinkle, muted amber, with controlled variation inside each sample.
+Materials/textures: paper stock, fine grain, matte surfaces; no glass UI.
+Constraints: isolated grouped subject; genuinely transparent background; no words, no letters, no numbers, no logo, no UI controls, no watermark.
+Avoid: embedded labels, fake interface screenshots, extra background, glow, generic tech circuitry, recognizable copyrighted characters or brand artwork.

@@ -1,0 +1,55 @@
+{
+  "KreaMoodboardVisualBrowserLocal": {
+    "display_name": "Krea 情绪板可视化浏览器",
+    "category": "ANe5s 节点/Krea2",
+    "description": "使用本地参考图可视化浏览和搜索 Krea 情绪板，选择样式并输出提示词和元数据。",
+    "inputs": {
+      "query": {
+        "name": "搜索词",
+        "tooltip": "按名称或情绪板描述搜索。"
+      },
+      "selected_uuid": {
+        "name": "已选样式 UUID",
+        "tooltip": "所选情绪板的唯一标识。"
+      },
+      "selected_title": {
+        "name": "已选样式名",
+        "tooltip": "所选情绪板的名称。"
+      },
+      "selected_url": {
+        "name": "已选样式网页链接",
+        "tooltip": "所选情绪板在 Krea 上的网页地址。"
+      },
+      "selected_metadata_json": {
+        "name": "已选样式元数据 JSON",
+        "tooltip": "所选情绪板的元数据。"
+      },
+      "strength": {
+        "name": "强度",
+        "tooltip": "选择输出样式提示词的详细程度。"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "正面条件",
+        "tooltip": "供下游提示词使用的正向情绪描述。"
+      },
+      "1": {
+        "name": "负面条件",
+        "tooltip": "供下游提示词使用的负向情绪描述。"
+      },
+      "2": {
+        "name": "标题",
+        "tooltip": "所选情绪板样式的名称。"
+      },
+      "3": {
+        "name": "UUID",
+        "tooltip": "所选情绪板的唯一标识。"
+      },
+      "4": {
+        "name": "元数据JSON",
+        "tooltip": "所选情绪板的完整元数据。"
+      }
+    }
+  }
+}

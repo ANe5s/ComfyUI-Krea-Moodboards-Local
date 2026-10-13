@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Krea Moodboards for ComfyUI</title>
+  <desc id="desc">A local ComfyUI style browser with 3,609 styles and five string outputs.</desc>
+  <rect width="1200" height="420" fill="#1f2226"/>
+  <rect x="24" y="24" width="1152" height="372" rx="18" fill="#25292e" stroke="#454b53" stroke-width="2"/>
+  <path d="M610 48V372" stroke="#454b53" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="78" fill="#8fb4ff" font-size="18" font-weight="700" letter-spacing="2">COMFYUI · LOCAL STYLE PICKER</text>
+    <text x="64" y="154" fill="#f3f4f6" font-size="53" font-weight="700">Krea Moodboards</text>
+    <text x="64" y="213" fill="#f3f4f6" font-size="48" font-weight="700">for ComfyUI</text>
+    <text x="64" y="258" fill="#d9dde3" font-size="22">Pick a visual style for your workflow.</text>
+    <rect x="64" y="298" width="154" height="40" rx="20" fill="#2d333a" stroke="#505760"/>
+    <text x="82" y="324" fill="#f3f4f6" font-size="18" font-weight="700">3,609 STYLES</text>
+    <rect x="232" y="298" width="202" height="40" rx="20" fill="#2d333a" stroke="#505760"/>
+    <text x="250" y="324" fill="#f3f4f6" font-size="18" font-weight="700">5 STRING OUTPUTS</text>
+  </g>
+</svg>
