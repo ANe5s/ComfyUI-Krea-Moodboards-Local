@@ -715,7 +715,10 @@ def _string_list(value: Any) -> list[str]:
 
 
 def _tokens(text: str) -> list[str]:
-    return re.findall(r"[a-z0-9]+", str(text or "").lower())
+    return re.findall(
+        r"[a-z0-9]+|[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002fa1f]+",
+        str(text or "").lower(),
+    )
 
 
 def _variants(token: str) -> tuple[str, ...]:
