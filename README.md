@@ -1,8 +1,8 @@
 # ComfyUI Krea Moodboards Local
 
-**English** · [简体中文](./README.zh.md)
-
 ![Krea Moodboards for ComfyUI: browse local style references and send prompt guidance into a workflow.](./assets/readme/hero.png)
+
+<p align="center"><strong>English</strong> · <a href="./README.zh.md">简体中文</a></p>
 
 Browse and select visual styles from inside ComfyUI, then pass their prompt guidance to your workflow. The bundled catalogs contain **3,549 Krea moodboards** and **60 Andro.Meta curated styles**.
 

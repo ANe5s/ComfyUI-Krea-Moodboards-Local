@@ -1,8 +1,8 @@
 # ComfyUI Krea Moodboards Local
 
-[English](./README.md) · **简体中文**
-
 ![ComfyUI Krea Moodboards：在本地浏览风格参考，并将提示词接入工作流。](./assets/readme/hero.zh.png)
+
+<p align="center"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
 在 ComfyUI 中搜索、筛选并选择视觉风格，再把对应的风格提示接入工作流。插件内置 **3,549 个 Krea 情绪板样式**和 **60 个 Andro.Meta 精选风格**。
 
