@@ -1,18 +1,12 @@
 # ComfyUI Krea Moodboards Local
 
-<p align="right"><a href="./README.md">English</a></p>
+[English](./README.md) · **简体中文**
 
-<p align="center">
-  <img src="./assets/readme/hero.zh.png" width="100%" alt="ComfyUI Krea Moodboards：在本地浏览风格参考，并将提示词接入工作流。" />
-</p>
+![ComfyUI Krea Moodboards：在本地浏览风格参考，并将提示词接入工作流。](./assets/readme/hero.zh.png)
 
 在 ComfyUI 中搜索、筛选并选择视觉风格，再把对应的风格提示接入工作流。插件内置 **3,549 个 Krea 情绪板样式**和 **60 个 Andro.Meta 精选风格**。
 
-<p align="center">
-  <a href="https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards">原项目：Andro-Meta/ComfyUI-Krea-Moodboards</a>
-  · <a href="https://www.krea.ai/app?gallery=moodboards">Krea 情绪板图库</a>
-  · <a href="./DATA_NOTICE.md">数据说明</a>
-</p>
+[原项目：Andro-Meta/ComfyUI-Krea-Moodboards](https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards) · [Krea 情绪板图库](https://www.krea.ai/app?gallery=moodboards) · [数据说明](./DATA_NOTICE.md)
 
 本插件为配合 [ComfyUI-Krea2-Harness 示例工作流](https://github.com/ANe5s/ComfyUI-Krea2-Harness/blob/main/README.zh.md)中的情绪板环节而制作，并支持 ComfyUI 英文和简体中文国际化（i18n）。
 

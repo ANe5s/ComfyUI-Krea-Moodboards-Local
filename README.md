@@ -1,18 +1,12 @@
 # ComfyUI Krea Moodboards Local
 
-<p align="right"><a href="./README.zh.md">简体中文</a></p>
+**English** · [简体中文](./README.zh.md)
 
-<p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="Krea Moodboards for ComfyUI: browse local style references and send prompt guidance into a workflow." />
-</p>
+![Krea Moodboards for ComfyUI: browse local style references and send prompt guidance into a workflow.](./assets/readme/hero.png)
 
 Browse and select visual styles from inside ComfyUI, then pass their prompt guidance to your workflow. The bundled catalogs contain **3,549 Krea moodboards** and **60 Andro.Meta curated styles**.
 
-<p align="center">
-  <a href="https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards">Original project: Andro-Meta/ComfyUI-Krea-Moodboards</a>
-  · <a href="https://www.krea.ai/app?gallery=moodboards">Krea moodboard gallery</a>
-  · <a href="./DATA_NOTICE.md">Data notice</a>
-</p>
+[Original project: Andro-Meta/ComfyUI-Krea-Moodboards](https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards) · [Krea moodboard gallery](https://www.krea.ai/app?gallery=moodboards) · [Data notice](./DATA_NOTICE.md)
 
 Built for the moodboard step in [ComfyUI-Krea2-Harness workflows](https://github.com/ANe5s/ComfyUI-Krea2-Harness/blob/main/README.md), with ComfyUI i18n support in English and Simplified Chinese.
 
