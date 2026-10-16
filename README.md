@@ -69,7 +69,7 @@ The node returns `STRING` values only. It does not load a model, generate images
 
 ## Local data and thumbnails
 
-The Registry package includes 256-pixel WebP thumbnails in `data/thumb_cache/` for catalog entries with source images. ComfyUI serves them from disk; browsing does not contact Krea, its CDN, or translation services. The 60 Andro.Meta prompt moods are text-only. Opening a Krea source link in a card launches that public page in your browser.
+The Git repository and Registry package include 256-pixel WebP thumbnails in `data/thumb_cache/` for catalog entries with source images. ComfyUI serves them from disk; browsing does not contact Krea, its CDN, or translation services. The 60 Andro.Meta prompt moods are text-only. Opening a Krea source link in a card launches that public page in your browser.
 
 See [DATA_NOTICE.md](./DATA_NOTICE.md) for catalog fields, sources, and data details.
 

@@ -32,7 +32,7 @@ It does not include:
 - Krea model weights
 - ComfyUI model weights
 
-The Registry publishing workflow downloads public Krea thumbnail URLs, resizes them to 256-pixel WebP files, and includes them in the package under `data/thumb_cache/`. The cache stays out of Git history. ComfyUI serves thumbnails from disk, so browsing makes no image or translation requests to Krea, its CDN, or the translation service. A source checkout can build the same cache with `python scripts/build_thumbnail_cache.py` (requires Pillow and network access during the build). The 60 Andro.Meta prompt moods are text-only and have no source image URLs.
+The Git repository and Registry package include public Krea thumbnails resized to 256-pixel WebP files under `data/thumb_cache/`. ComfyUI serves thumbnails from disk, so browsing makes no image or translation requests to Krea, its CDN, or the translation service. The 60 Andro.Meta prompt moods are text-only and have no source image URLs.
 
 Users can visually inspect the source styles on Krea's public moodboard gallery:
 

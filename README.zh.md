@@ -69,7 +69,7 @@ git clone https://github.com/ANe5s/ComfyUI-Krea2-Harness.git
 
 ## 本地数据与缩略图
 
-Registry 安装包会为有来源图片的目录条目附带 256 像素 WebP 缩略图，存放在 `data/thumb_cache/`。ComfyUI 从本地磁盘提供图片，浏览目录不会访问 Krea、其 CDN 或翻译服务。60 个 Andro.Meta 提示词主题没有图片。点击卡片上的 Krea 来源链接会在浏览器中打开公开页面。
+Git 仓库和 Registry 安装包都会为有来源图片的目录条目附带 256 像素 WebP 缩略图，存放在 `data/thumb_cache/`。ComfyUI 从本地磁盘提供图片，浏览目录不会访问 Krea、其 CDN 或翻译服务。60 个 Andro.Meta 提示词主题没有图片。点击卡片上的 Krea 来源链接会在浏览器中打开公开页面。
 
 目录字段、来源和数据细节见 [DATA_NOTICE.md](./DATA_NOTICE.md)。
 
