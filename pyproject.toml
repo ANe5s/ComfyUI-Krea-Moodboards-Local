@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-Krea-Moodboards-Local"
-version = "0.1.261015"
+version = "0.1.261016"
 description = "A localized, searchable Krea moodboard browser for ComfyUI, with 3,609 styles, favorites, and Krea2 Harness integration."
 license = { file = "LICENSE" }
 dependencies = []

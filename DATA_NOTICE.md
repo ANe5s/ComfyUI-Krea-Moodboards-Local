@@ -28,13 +28,11 @@ Simplified Chinese card titles and summaries for both catalogs are bundled in `d
 
 It does not include:
 
-- Krea moodboard images
-- downloaded image files
 - full image URL lists
 - Krea model weights
 - ComfyUI model weights
 
-This Local installation stores public Krea thumbnails in `data/thumb_cache/` and serves them from disk. Browsing the catalog makes no image or translation requests to Krea, its CDN, or the translation service. The cache is git-ignored and is not included in repository or registry packages; preserve or copy the cache folder when using this installed plugin offline. The 60 Andro.Meta prompt moods are text-only and have no source image URLs.
+The Registry publishing workflow downloads public Krea thumbnail URLs, resizes them to 256-pixel WebP files, and includes them in the package under `data/thumb_cache/`. The cache stays out of Git history. ComfyUI serves thumbnails from disk, so browsing makes no image or translation requests to Krea, its CDN, or the translation service. A source checkout can build the same cache with `python scripts/build_thumbnail_cache.py` (requires Pillow and network access during the build). The 60 Andro.Meta prompt moods are text-only and have no source image URLs.
 
 Users can visually inspect the source styles on Krea's public moodboard gallery:
 

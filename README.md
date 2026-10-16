@@ -69,7 +69,7 @@ The node returns `STRING` values only. It does not load a model, generate images
 
 ## Local data and thumbnails
 
-The catalog, translations, and browser API are local. Browsing does not send requests to Krea, its CDN, or translation services. Thumbnails are read from the local `data/thumb_cache/` directory and are not downloaded automatically. Styles remain searchable and selectable when a thumbnail is missing, but their cards will not show that image. Preserve the cache directory if you already have it and need those thumbnails offline. Opening a Krea source link in a card launches that public page in your browser.
+The Registry package includes 256-pixel WebP thumbnails in `data/thumb_cache/` for catalog entries with source images. ComfyUI serves them from disk; browsing does not contact Krea, its CDN, or translation services. The 60 Andro.Meta prompt moods are text-only. Opening a Krea source link in a card launches that public page in your browser.
 
 See [DATA_NOTICE.md](./DATA_NOTICE.md) for catalog fields, sources, and data details.
 
